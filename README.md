@@ -6,6 +6,6 @@ Ce projet renferme deux notebooks, un de modélisation et un de prédiction
 - Le notebook de prédiction permet d'utiliser le modèle construit dans l'étape de modélisation et de l'appliquer sur le jeu de test
 
 ## Authors
-- [Wajd Alaric MESKINI]
-- [Vincent SADE]
-- [Maxime Paumard]
+- Wajd Alaric MESKINI
+- Vincent SADE
+- Maxime PAUMARD
